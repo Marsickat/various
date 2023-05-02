@@ -1,0 +1,618 @@
+[
+  {
+    "Blood_Giant" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "C",
+        "skill_1": 2,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Кровавый Гигант",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Crimson_Fragger" : [
+      {
+        "available": true,
+        "pve": "A+",
+        "pvp": "A",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Кампонотус Хромаиодес",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Dusky_Lurker" : [
+      {
+        "available": true,
+        "pve": "B+",
+        "pvp": "B+",
+        "skill_1": 4,
+        "skill_2": 4,
+        "skill_3": 4,
+        "translate": "Кампонотус Уганда",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Golden_Crystal" : [
+      {
+        "available": false,
+        "pve": "S+",
+        "pvp": "S+",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Лептогенус Элонгата",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Grave_Digger" : [
+      {
+        "available": true,
+        "pve": "A",
+        "pvp": "A+",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Прионопельта",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Jet_Black" : [
+      {
+        "available": false,
+        "pve": "C",
+        "pvp": "C",
+        "skill_1": null,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Муравей в темных доспехах",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Leaf_Devourer" : [
+      {
+        "available": false,
+        "pve": "S+",
+        "pvp": "S+",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Гигантский Муравей листорез",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Nimble_Tree_Ant" : [
+      {
+        "available": false,
+        "pve": "A+",
+        "pvp": "A+",
+        "skill_1": 4,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Проворный Древесный Муравей",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Predator" : [
+      {
+        "available": false,
+        "pve": "C",
+        "pvp": "C",
+        "skill_1": 2,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Муравей-Хищник",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Ruby_Slender" : [
+      {
+        "available": false,
+        "pve": "F",
+        "pvp": "C",
+        "skill_1": 3,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Гнамптогенис Мордакс",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Shield_Warden" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "A+",
+        "skill_1": 4,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Щитоголовый Муравей-Черепаха",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Wise_Berserker" : [
+      {
+        "available": true,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Мудрый Берсеркер",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Acid_General" : [
+      {
+        "available": true,
+        "pve": "B",
+        "pvp": "C+",
+        "skill_1": 5,
+        "skill_2": 4,
+        "skill_3": 5,
+        "translate": "Толстокожий Свирепый Муравей",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Banshee_Panda" : [
+      {
+        "available": false,
+        "pve": "D",
+        "pvp": "B",
+        "skill_1": 2,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Панда-Муравей",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Banshee_Velvet" : [
+      {
+        "available": true,
+        "pve": "B",
+        "pvp": "D",
+        "skill_1": 2,
+        "skill_2": 2,
+        "skill_3": null,
+        "translate": "Красный Бархатный Муравей",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Black_Canser" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "B+",
+        "skill_1": 3,
+        "skill_2": 2,
+        "skill_3": null,
+        "translate": "Афантохилус Рогэрси",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Brown_Rogue" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Керенгский Муравей-Прыгун",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Bullet_Ant" : [
+      {
+        "available": true,
+        "pve": "B",
+        "pvp": "B+",
+        "skill_1": 3,
+        "skill_2": 3,
+        "skill_3": 3,
+        "translate": "Свирепый Пуля-Муравей",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Crimson_Pearl" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Красный Муравей-Паук",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Dark_Giant" : [
+      {
+        "available": false,
+        "pve": "D",
+        "pvp": "B",
+        "skill_1": 5,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Эцитон Бурчелли",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Dark_Hercules" : [
+      {
+        "available": false,
+        "pve": "D",
+        "pvp": "B",
+        "skill_1": 5,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Муравьиный Паук-Скакун",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Driver_Ant" : [
+      {
+        "available": true,
+        "pve": "C+",
+        "pvp": "B",
+        "skill_1": 3,
+        "skill_2": 2,
+        "skill_3": 3,
+        "translate": "Муравей Пилот",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Enigmatic_Taylor" : [
+      {
+        "available": false,
+        "pve": "B",
+        "pvp": "D",
+        "skill_1": 2,
+        "skill_2": 2,
+        "skill_3": null,
+        "translate": "Тротуарный Муравей",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Formica_Clara" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Глянцевый Муравей",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Ghost_Ant" : [
+      {
+        "available": false,
+        "pve": "A+",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Муравей-Призрак",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Giant_Tooth" : [
+      {
+        "available": true,
+        "pve": "B+",
+        "pvp": "A",
+        "skill_1": 2,
+        "skill_2": 3,
+        "skill_3": 2,
+        "translate": "Гигантский Зубчатый Муравей",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Gold_Armor" : [
+      {
+        "available": true,
+        "pve": "A+",
+        "pvp": "B+",
+        "skill_1": 2,
+        "skill_2": 3,
+        "skill_3": 5,
+        "translate": "Золотой Панцирь",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Golden_Spiny" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "D",
+        "skill_1": 4,
+        "skill_2": 4,
+        "skill_3": null,
+        "translate": "Оранжевый Колючий Муравей",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Golden_Sugar" : [
+      {
+        "available": true,
+        "pve": "A",
+        "pvp": "C",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Золотокольцый Изогнутый Муравей",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Golden_Venom" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Оранжевый Муравьиный Паук",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Guard_General" : [
+      {
+        "available": true,
+        "pve": "D",
+        "pvp": "B",
+        "skill_1": 2,
+        "skill_2": 4,
+        "skill_3": null,
+        "translate": "Свирепый Муравей-Жулик",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Jack_Jumper" : [
+      {
+        "available": true,
+        "pve": "A+",
+        "pvp": "B+",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Джек Муравей-Скакун",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "Lathy_Sniffer" : [
+      {
+        "available": false,
+        "pve": "S+",
+        "pvp": "S+",
+        "skill_1": 5,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Красно-черный Тетрапонер",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Mimicry_Master" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 5,
+        "skill_2": 4,
+        "skill_3": 5,
+        "translate": "Мастер Мимикрии",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Myrmarachne_Formicaria" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": null,
+        "translate": "Муравьиный Скакунчик",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Myrmecotypus_Rettenmeyeri" : [
+      {
+        "available": false,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 3,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Мирмекотип Реттенмейера",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "New_World_General" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "C",
+        "skill_1": 4,
+        "skill_2": 4,
+        "skill_3": 3,
+        "translate": "Армейский Хлопчатый Муравей",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Pheidoie_Nietneri" : [
+      {
+        "available": false,
+        "pve": "A+",
+        "pvp": "S+",
+        "skill_1": 3,
+        "skill_2": 3,
+        "skill_3": null,
+        "translate": "Фейдоле Ниетнери",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Proatta" : [
+      {
+        "available": false,
+        "pve": "A+",
+        "pvp": "S+",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Медный Муравей",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Reap_Master" : [
+      {
+        "available": true,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Тауматомирмакс Атрокс",
+        "type": "Strelok"
+      }
+    ]
+  },
+  {
+    "Rock_Bandit" : [
+      {
+        "available": true,
+        "pve": "C",
+        "pvp": "D",
+        "skill_1": 2,
+        "skill_2": 2,
+        "skill_3": null,
+        "translate": "Цифомирмекс Флавидус",
+        "type": "Ohrannik"
+      }
+    ]
+  },
+  {
+    "Shikeree_Master" : [
+      {
+        "available": true,
+        "pve": "S",
+        "pvp": "S",
+        "skill_1": 4,
+        "skill_2": 5,
+        "skill_3": 5,
+        "translate": "Колесный Жук",
+        "type": "Nositel"
+      }
+    ]
+  },
+  {
+    "Slim_Arched" : [
+      {
+        "available": true,
+        "pve": "B+",
+        "pvp": "A",
+        "skill_1": 2,
+        "skill_2": 3,
+        "skill_3": 2,
+        "translate": "Бамбуковый Изогнутый Муравей",
+        "type": "Universal"
+      }
+    ]
+  },
+  {
+    "White_Velvet" : [
+      {
+        "available": false,
+        "pve": "D",
+        "pvp": "B",
+        "skill_1": null,
+        "skill_2": null,
+        "skill_3": null,
+        "translate": "Белый Бархатный Муравей",
+        "type": "Universal"
+      }
+    ]
+  }
+]
